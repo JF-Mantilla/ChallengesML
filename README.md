@@ -14,5 +14,5 @@ _Attached in the corresponding folder_
 
 We analyzed an Airbnb dataset from New York, removing unnecessary columns and handling missing values. We conducted exploratory analysis, identifying price patterns based on room type and neighborhood group. We evaluated regression models to predict prices, including Ridge, Elastic Net, Random Forest, and Ridge optimization with GridSearchCV. The optimized Ridge model, with 'alpha' of 1.0 and 'solver' 'sag', achieved an RMSE of 198.50 and an R2 of 0.109, indicating limited accuracy in predicting prices based on the available features.
 
-* Notebook: (http://bit.ly/3VXgMTH) 
+* Notebook: Kaggle http://bit.ly/3VXgMTH  
 * Tableau Dashboard:
