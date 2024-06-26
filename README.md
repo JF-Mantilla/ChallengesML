@@ -9,3 +9,10 @@ This project aims to develop a machine learning model to predict housing values 
 Random Forest emerged as the most effective model, but further improvements could be made with additional testing and hyperparameter tuning. The project faced limitations due to long execution times and hardware constraints, suggesting that future work should leverage cloud computing for better efficiency and performance.
 
 _Attached in the corresponding folder_
+
+2. NYC Airbnb Rental Price Regression
+
+We analyzed an Airbnb dataset from New York, removing unnecessary columns and handling missing values. We conducted exploratory analysis, identifying price patterns based on room type and neighborhood group. We evaluated regression models to predict prices, including Ridge, Elastic Net, Random Forest, and Ridge optimization with GridSearchCV. The optimized Ridge model, with 'alpha' of 1.0 and 'solver' 'sag', achieved an RMSE of 198.50 and an R2 of 0.109, indicating limited accuracy in predicting prices based on the available features.
+
+Notebook: [https://www.kaggle.com/code/felipemantilla77/nyc-airbnb?scriptVersionId=185616460](Kaggle)
+Tableau Dashboard:
