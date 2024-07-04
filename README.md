@@ -16,3 +16,9 @@ We analyzed an Airbnb dataset from New York, removing unnecessary columns and ha
 
 * Notebook: Kaggle http://bit.ly/3VXgMTH  
 * Tableau Dashboard: https://bit.ly/3RTss7w
+
+3. Average engagement regression using two ml models
+
+One critical property of a video is engagement: how interesting or "engaging" it is for viewers, so that they decide to keep watching. Engagement is critical for learning, whether the instruction is coming from a video or any other source. There are many ways to define engagement with video, but one common approach is to estimate it by measuring how much of the video a user watches. If the video is not interesting and does not engage a viewer, they will typically abandon it quickly, e.g. only watch 5 or 10% of the total.
+
+_Attached in the corresponding folder_
